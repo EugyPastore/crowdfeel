@@ -3,6 +3,6 @@
   <p> App built on Ruby on Rails. </p>
   
   <h2>Authors</h2>
-Created by Sander Koreman and Eugenia Pastore while undertaking Le Wagon Bootcamp.
+Created by us while undertaking Le Wagon Bootcamp.
 
 <h2>Showcase</h2>
